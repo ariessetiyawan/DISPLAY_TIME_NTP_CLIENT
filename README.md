@@ -8,23 +8,16 @@ How to display the time based on the NTP server on the screen
 
 #Wiring
 
-ESP32      GC9A01
-
-  3V3 ----- BLK
-  
-  15  ----- CS
-  
-  2   ----- DC
-  
-  4   ----- RES
-  
-  23  ----- SDA
-  
-  18  ----- SCL
-  
-  3V3 ----- VCC
-  
-  GND ----- GND
+|ESP32  |    GC9A01 |
+|---    | ----      |
+|3V3 | BLK |
+|  15 | CS |
+|  2  |DC |
+|  4  |RES |
+|  23 | SDA  |
+|  18  | SCL |  
+|  3V3 | VCC | 
+|  GND | GND|
   
 ![GC9A01-ESP32-32E](https://github.com/user-attachments/assets/2fb3ff96-30c0-446d-83cf-c22901e74e48)
 
