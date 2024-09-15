@@ -1,5 +1,5 @@
 # DISPLAY_TIME_NTP_CLIENT
-How to display the time based on the NTP server on the screen
+How to display the time based on the NTP server on the screen. This project also displays a splash screen from the gif file which is displayed for the first time before the active time on the screen.
 
 #Devices
 1.  GC9A01 
